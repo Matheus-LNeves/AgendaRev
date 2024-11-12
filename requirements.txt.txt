@@ -1,6 +1,6 @@
 datetime 
 pandas 
 streamlit 
-streamlit_calendar
+streamlit-calendar
 json
 locale
